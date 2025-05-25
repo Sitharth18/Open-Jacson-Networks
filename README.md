@@ -13,8 +13,8 @@ Visual components and Python
 
 ## Procedure :
 ```
-NAME:Priyanka S
-REG NO:212224040255
+NAME:SIHARTH.B.S
+REG NO:212224110048
 
 ```
 
